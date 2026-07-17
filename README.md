@@ -2,7 +2,7 @@
 
 <!-- CUSTOM BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BlueTeamCyber-blue)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:bezawitsisay0@gmail.com)
 
 I am an aspiring **Blue Team cybersecurity Analyst** passionate about threat detection, network security monitoring, Linux host hardening, and vulnerability management.
 
